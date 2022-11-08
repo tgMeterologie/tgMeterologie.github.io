@@ -3,8 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e118a87d25bf7add821d68d508b1dc19",
+  "assets/AssetManifest.json": "ed2c43ee758a00af66ed1c320d98bb7d",
 "assets/assets/cloud.jpeg": "2740bfc9a070a73342ba145dbaf3eab3",
+"assets/assets/data/wind/anemometr.jpg": "133b13ea2684affcf4b69106e9d50595",
+"assets/assets/data/wind/tlakova_vyse_nize.png": "a87b9f7a617c59518f342b430c156672",
 "assets/assets/gallery/roudnice/cockpit1.jpg": "a0e9b13acb4ff815ffe63901fc0268bb",
 "assets/assets/gallery/roudnice/glider_tractor.jpg": "b7914f950d91a60716a5e0e64b99c39a",
 "assets/assets/gallery/roudnice/hangar0.jpg": "6bf6a48289e688b496f848fb435c7c5a",
@@ -31,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f0be8e3d81521e59ba0df9e728220557",
-"/": "f0be8e3d81521e59ba0df9e728220557",
-"main.dart.js": "a4948f29887244eb7bb819f75ad41535",
+"index.html": "530402ae94195d6f46a390fd5863e789",
+"/": "530402ae94195d6f46a390fd5863e789",
+"main.dart.js": "d0c194615e50c4a584fcb7555f289559",
 "manifest.json": "43c67dd3ea580f9560a35bf39ef1058c",
 "version.json": "fa1e20dfbe231f07b7a62ebc26c95fa3"
 };
