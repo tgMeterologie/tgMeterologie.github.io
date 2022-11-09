@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/assets/gallery/roudnice/traffic_tower1.jpg": "d819ee0bb3c82672789a54f75b6a5a66",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "73fc73a734ce129144752ff7fc43868d",
+"assets/NOTICES": "8f20b846a286f77cd50168ff92290488",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -33,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "530402ae94195d6f46a390fd5863e789",
-"/": "530402ae94195d6f46a390fd5863e789",
-"main.dart.js": "d0c194615e50c4a584fcb7555f289559",
+"index.html": "744e3982acb19a610b6dabae8df96d30",
+"/": "744e3982acb19a610b6dabae8df96d30",
+"main.dart.js": "6667d744121dbe1821d21224677cc461",
 "manifest.json": "43c67dd3ea580f9560a35bf39ef1058c",
 "version.json": "fa1e20dfbe231f07b7a62ebc26c95fa3"
 };
