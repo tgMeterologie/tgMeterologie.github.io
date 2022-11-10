@@ -1,32 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <base href="/">
+    <base href="/">
 
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Plavba po obloze s větrem v zádech, kde meteorologie je našim pánem">
+    <meta charset="UTF-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="description" content="Plavba po obloze s větrem v zádech, kde meteorologie je našim pánem">
 
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Plavba po obloze s větrem v zádech, kde meteorologie je našim pánem">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+    <!-- iOS meta tags & icons -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Plavba po obloze s větrem v zádech, kde meteorologie je našim pánem">
+    <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>Plavba po obloze s větrem v zádech, kde meteorologie je našim pánem</title>
-  <link rel="manifest" href="manifest.json">
+    <title>Plavba po obloze s větrem v zádech, kde meteorologie je našim
+        pánem</title>
+    <link rel="manifest" href="manifest.json">
 
-  <script>
-    var serviceWorkerVersion = '4231168371';
-  </script>
+    <script>
+    var serviceWorkerVersion = '1255129401';
+    </script>
 
-  <script src="flutter.js" defer></script>
+    <script src="flutter.js" defer></script>
 </head>
 <body>
-  <script>
+<div id="splash">
+    <progress style="width: 100%"></progress>
+    <h1>Probíhá načítání</h1>
+    <h2>Usilovně na tom procujeme</h2><
+    <video src="" autoplay loop about="Kdo pozdě chodí sám sobě škodí"></video>
+</div>
+<noscript>
+    <h1>Tato stránka vyžaduje povolný javascript</h1>
+</noscript>
+<script>
+    const splash = document.getElementById("splash");
     window.addEventListener('load', function(ev) {
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
@@ -35,9 +46,10 @@
       }).then(function(engineInitializer) {
         return engineInitializer.initializeEngine();
       }).then(function(appRunner) {
+        splash.remove();
         return appRunner.runApp();
       });
     });
-  </script>
+</script>
 </body>
 </html>
