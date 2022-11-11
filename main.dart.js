@@ -62174,13 +62174,13 @@ A.EY.prototype={
 G(a,b){var s="assets/icons/icon.jpeg"
 return new A.Dc(A.a([A.hY("Elektrick\xe9 v\xfdboje, kter\xe9 se vyskytuj\xed p\u0159i bou\u0159k\xe1ch. Vznikaj\xed rozd\xedlem n\xe1boj\u016f v mrac\xedch.",!0,new A.WX(),new A.WY(b),"assets/data/lightning/storm.png",!0,"Blesky"),A.hY("Oblak le\u017e\xedc\xed na Zemi s n\xedzkou viditelnost\xed.\nMlha, jej\xed vznik, rozd\u011blnen\xed",!0,new A.WZ(),new A.X9(b),s,!0,"Mlha"),A.hY("Lehk\xfd \xfavod o kluz\xe1c\xedch",!0,new A.Xb(),new A.Xc(),s,!1,"Kluz\xe1ci"),A.hY("Co to vlastn\u011b bou\u0159ka je a jak vznik\xe1",!1,new A.Xd(),new A.Xe(),s,!0,"Bou\u0159ka"),A.hY("Z\xe1klady meterologie pro amat\xe9rsk\xe9 astronomy.",!1,new A.Xf(),new A.Xg(),s,!0,"METEOROLOGIE A AMAT\xc9RSK\xc1 ASTRONOMIE"),A.hY("Prezentace pojedn\xe1v\xe1 o u\u017eit\xed meteorologie v n\xe1mo\u0159nictv\xed. O jej\xed historii, v\xfdvoji a dne\u0161n\xed podob\u011b.",!1,new A.Xh(),new A.X_(),s,!0,"Meteorologie v n\xe1mo\u0159nictv\xed"),A.hY("",!1,new A.X0(),new A.X1(),s,!0,"Po\u010das\xed - aplikace"),A.hY("Naleznete zde v\u0161echny probl\xe9mi, kter\xe9 jsou hledn\u011b p\u0159edpov\u011bdi po\u010das\xed. Jsou tam hezky rozepsan\xe9 i s obr\xe1zky",!1,new A.X2(),new A.X3(),s,!0,"Probl\xe9my p\u0159edpov\u011bdi po\u010das\xed"),A.hY("",!1,new A.X4(),new A.X5(),s,!0,"The Weather Channel"),A.hY("",!1,new A.X6(),new A.X7(),s,!0,"Torn\xe1da"),A.hY("",!1,new A.X8(),new A.Xa(),s,!0,"Tropick\xe1 cykl\xf3na")],t.lg),"Meterologie",null)}}
 A.WX.prototype={
-$0(){return A.eQ("https://youtu.be/8eXZZonx_X0?t=416")},
+$0(){return A.eQ("https://youtu.be/AIqQyULckkc?t=415")},
 $S:7}
 A.WY.prototype={
 $0(){return A.awB(this.a)},
 $S:0}
 A.WZ.prototype={
-$0(){return A.eQ("https://youtu.be/8eXZZonx_X0?t=195")},
+$0(){return A.eQ("https://youtu.be/oZpy0kn8iyI")},
 $S:7}
 A.X9.prototype={
 $0(){return A.awA(this.a)},
